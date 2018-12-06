@@ -1,6 +1,6 @@
 # SinaHZ流程管理
 ## 一、团队管理
-[#### 1. 办公室纪律](https://github.com/zzpt/SinaHZ/blob/master/teamManage/%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%BA%AA%E5%BE%8B.md)
+#### [ 1. 办公室纪律](https://github.com/zzpt/SinaHZ/blob/master/teamManage/%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%BA%AA%E5%BE%8B.md)
 #### 2. 团建方案
 #### 3. 招聘流程
 #### 4. 新人入职流程
